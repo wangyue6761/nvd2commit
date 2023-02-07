@@ -1,0 +1,8 @@
+.CVEfixes.ini
+CVEfixes*.db
+CVEfixes*.sql.gz
+WY/
+Examples/
+*.json
+*.pyc
+*.xml
